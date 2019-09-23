@@ -5,6 +5,7 @@
 Your client would like you to make him a website with a few pages. One of the pages should actually contain a contact form, so that people can send him messages.
 
 ## Self-Evaluation Criteria
+- [x]
 
 [x]  When one submits the form, you receive an email with the form content to my email address
 [x]  Most PHP code is above the html doctype line
